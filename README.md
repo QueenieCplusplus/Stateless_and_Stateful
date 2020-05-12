@@ -17,3 +17,5 @@ The HTTP Protocol is Stateless！HTTP, the backbone of the WEB, is unable to ret
 # 有狀態
 
 Cart in E-shop using Session to take memory of the Preprocedure that client did before.Session is protected by Log-in, client shall login firstly, then takes his/her own session in background.
+
+![cart](https://cdn3.vectorstock.com/i/1000x1000/62/87/flat-design-shopping-cart-vector-13576287.jpg)
